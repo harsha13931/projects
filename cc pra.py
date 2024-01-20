@@ -1,0 +1,11 @@
+x=input()
+l=int(input())
+m=len(x)
+q=m//l
+r=m%l
+z=0
+while()
+    print(x[z:l])
+    l+=l
+    z+=l
+print(x[-r:])
